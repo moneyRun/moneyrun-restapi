@@ -1,2 +1,2 @@
-# moneyrun-restapi
-the REST API building of `restify` for MoneyRun
+# moneyrush-restapi
+the REST API building of `restify` for MoneyRush
